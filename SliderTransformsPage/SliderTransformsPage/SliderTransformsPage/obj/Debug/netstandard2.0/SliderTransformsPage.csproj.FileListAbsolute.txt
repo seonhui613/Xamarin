@@ -1,0 +1,12 @@
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\bin\Debug\netstandard2.0\SliderTransformsPage.deps.json
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\bin\Debug\netstandard2.0\SliderTransformsPage.dll
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\bin\Debug\netstandard2.0\SliderTransformsPage.pdb
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\obj\Debug\netstandard2.0\SliderTransformsPage.csprojAssemblyReference.cache
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\obj\Debug\netstandard2.0\SliderTransformsPage.csproj.CoreCompileInputs.cache
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\obj\Debug\netstandard2.0\SliderTransformsPage.AssemblyInfoInputs.cache
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\obj\Debug\netstandard2.0\SliderTransformsPage.AssemblyInfo.cs
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\obj\Debug\netstandard2.0\XamlC.stamp
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\obj\Debug\netstandard2.0\SliderTransformsPage.dll
+D:\seonhui\xmarin\SliderTransformsPage\SliderTransformsPage\SliderTransformsPage\obj\Debug\netstandard2.0\SliderTransformsPage.pdb

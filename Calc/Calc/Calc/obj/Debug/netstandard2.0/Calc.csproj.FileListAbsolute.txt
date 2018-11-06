@@ -1,0 +1,12 @@
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.csprojAssemblyReference.cache
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.AssemblyInfoInputs.cache
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.AssemblyInfo.cs
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\bin\Debug\netstandard2.0\Calc.deps.json
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\bin\Debug\netstandard2.0\Calc.dll
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\bin\Debug\netstandard2.0\Calc.pdb
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.dll
+C:\Users\Top866395\source\repos\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.pdb

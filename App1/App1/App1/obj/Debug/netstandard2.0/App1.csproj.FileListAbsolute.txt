@@ -1,0 +1,12 @@
+D:\seonhui\xmarin\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\seonhui\xmarin\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\seonhui\xmarin\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\seonhui\xmarin\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\seonhui\xmarin\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\seonhui\xmarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\seonhui\xmarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\seonhui\xmarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\seonhui\xmarin\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\seonhui\xmarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\seonhui\xmarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+D:\seonhui\xmarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache

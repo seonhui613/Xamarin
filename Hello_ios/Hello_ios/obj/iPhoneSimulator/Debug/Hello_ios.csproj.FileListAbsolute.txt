@@ -1,0 +1,11 @@
+D:\seonhui\xmarin\Hello_ios\Hello_ios\bin\iPhoneSimulator\Debug\Hello_ios.exe
+D:\seonhui\xmarin\Hello_ios\Hello_ios\bin\iPhoneSimulator\Debug\Hello_ios.pdb
+D:\seonhui\xmarin\Hello_ios\Hello_ios\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\seonhui\xmarin\Hello_ios\Hello_ios\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\seonhui\xmarin\Hello_ios\Hello_ios\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\seonhui\xmarin\Hello_ios\Hello_ios\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\seonhui\xmarin\Hello_ios\Hello_ios\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\seonhui\xmarin\Hello_ios\Hello_ios\obj\iPhoneSimulator\Debug\optimized\
+D:\seonhui\xmarin\Hello_ios\Hello_ios\obj\iPhoneSimulator\Debug\Hello_ios.csproj.CoreCompileInputs.cache
+D:\seonhui\xmarin\Hello_ios\Hello_ios\obj\iPhoneSimulator\Debug\Hello_ios.exe
+D:\seonhui\xmarin\Hello_ios\Hello_ios\obj\iPhoneSimulator\Debug\Hello_ios.pdb

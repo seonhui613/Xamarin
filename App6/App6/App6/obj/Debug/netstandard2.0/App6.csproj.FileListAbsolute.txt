@@ -1,0 +1,12 @@
+D:\seonhui\xmarin\App6\App6\App6\bin\Debug\netstandard2.0\App6.deps.json
+D:\seonhui\xmarin\App6\App6\App6\bin\Debug\netstandard2.0\App6.dll
+D:\seonhui\xmarin\App6\App6\App6\bin\Debug\netstandard2.0\App6.pdb
+D:\seonhui\xmarin\App6\App6\App6\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\seonhui\xmarin\App6\App6\App6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\seonhui\xmarin\App6\App6\App6\obj\Debug\netstandard2.0\App6.csproj.CoreCompileInputs.cache
+D:\seonhui\xmarin\App6\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfoInputs.cache
+D:\seonhui\xmarin\App6\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfo.cs
+D:\seonhui\xmarin\App6\App6\App6\obj\Debug\netstandard2.0\XamlC.stamp
+D:\seonhui\xmarin\App6\App6\App6\obj\Debug\netstandard2.0\App6.dll
+D:\seonhui\xmarin\App6\App6\App6\obj\Debug\netstandard2.0\App6.pdb
+D:\seonhui\xmarin\App6\App6\App6\obj\Debug\netstandard2.0\NextPage.xaml.g.cs

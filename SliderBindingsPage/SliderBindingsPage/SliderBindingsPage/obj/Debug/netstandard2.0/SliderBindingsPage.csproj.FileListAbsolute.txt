@@ -1,0 +1,11 @@
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\bin\Debug\netstandard2.0\SliderBindingsPage.deps.json
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\bin\Debug\netstandard2.0\SliderBindingsPage.dll
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\bin\Debug\netstandard2.0\SliderBindingsPage.pdb
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\obj\Debug\netstandard2.0\SliderBindingsPage.csproj.CoreCompileInputs.cache
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\obj\Debug\netstandard2.0\SliderBindingsPage.AssemblyInfoInputs.cache
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\obj\Debug\netstandard2.0\SliderBindingsPage.AssemblyInfo.cs
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\obj\Debug\netstandard2.0\XamlC.stamp
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\obj\Debug\netstandard2.0\SliderBindingsPage.dll
+D:\seonhui\xmarin\SliderBindingsPage\SliderBindingsPage\SliderBindingsPage\obj\Debug\netstandard2.0\SliderBindingsPage.pdb

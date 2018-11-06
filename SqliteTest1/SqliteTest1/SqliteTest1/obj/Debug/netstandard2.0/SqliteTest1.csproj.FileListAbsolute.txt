@@ -1,0 +1,13 @@
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\bin\Debug\netstandard2.0\SqliteTest1.deps.json
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\bin\Debug\netstandard2.0\SqliteTest1.dll
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\obj\Debug\netstandard2.0\SqliteTest1.csproj.CoreCompileInputs.cache
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\obj\Debug\netstandard2.0\SqliteTest1.AssemblyInfoInputs.cache
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\obj\Debug\netstandard2.0\SqliteTest1.AssemblyInfo.cs
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\bin\Debug\netstandard2.0\SqliteTest1.pdb
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\obj\Debug\netstandard2.0\SqliteTest1.dll
+C:\Users\Top866395\source\repos\SqliteTest1\SqliteTest1\SqliteTest1\obj\Debug\netstandard2.0\SqliteTest1.pdb
